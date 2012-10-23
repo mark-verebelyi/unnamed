@@ -8,6 +8,8 @@
 
 	<logger name="org.springframework" level="INFO" />
 
+	<logger name="org.springframework.data" level="DEBUG" />
+
 	<root level="DEBUG">
 		<appender-ref ref="STDOUT" />
 	</root>

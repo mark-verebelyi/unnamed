@@ -3,5 +3,6 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<import resource="classpath:/spring/bootstrap-config.xml"/>
+	<import resource="classpath:/spring/ui-security-config.xml"/>
 
 </beans>
